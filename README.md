@@ -1,4 +1,4 @@
-# Juego simple memorama\_
+# Quitar fono de imagenes usando AI
 
 Mini app que usa los servicios de [cloudinary] para quitar el fondo de la imagen que se le proporcione
 
