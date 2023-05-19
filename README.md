@@ -33,4 +33,4 @@ MIT
 
 [cloudinary]: https://cloudinary.com/
 [TwoUp]: https://github.com/GoogleChromeLabs/two-up
-[prueba]: https://xiaoluxtl.github.io/memorama-react/
+[prueba]: https://xiaoluxtl.github.io/bg-remove/
