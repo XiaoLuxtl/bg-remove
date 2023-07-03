@@ -30,7 +30,7 @@ Estoy abierto a nuevas oportunidades y colaboraciones. Puedes comunicarte conmig
 
 ## Portafolio
 
-Visita mi [Portafolio](https://github.com/XiaoLuxtl/lux-portfolio)
+Visita mi [Portafolio](https://xiaoluxtl.github.io/lux-portfolio/)
 
 ## License
 
